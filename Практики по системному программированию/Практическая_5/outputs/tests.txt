@@ -1,0 +1,10 @@
+test_exercises (test_practice.EncodingTests.test_exercises) ... ok
+test_inspect_detects_different_expected_text (test_practice.EncodingTests.test_inspect_detects_different_expected_text) ... ok
+test_main_text_bytes_and_counts (test_practice.EncodingTests.test_main_text_bytes_and_counts) ... ok
+test_pause_phases (test_practice.EncodingTests.test_pause_phases) ... ok
+test_repeat_has_identical_bytes (test_practice.EncodingTests.test_repeat_has_identical_bytes) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.032s
+
+OK
