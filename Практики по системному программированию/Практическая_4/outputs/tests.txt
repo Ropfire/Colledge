@@ -1,0 +1,13 @@
+test_exercises_and_repeat (test_practice.FileOperationTests.test_exercises_and_repeat) ... ok
+test_initial_creation_never_overwrites_or_recreates (test_practice.FileOperationTests.test_initial_creation_never_overwrites_or_recreates) ... ok
+test_main_structure_and_repeat (test_practice.FileOperationTests.test_main_structure_and_repeat) ... ok
+test_missing_sources_and_directory_sources (test_practice.FileOperationTests.test_missing_sources_and_directory_sources) ... ok
+test_missing_target_parent (test_practice.FileOperationTests.test_missing_target_parent) ... ok
+test_operations_preserve_targets (test_practice.FileOperationTests.test_operations_preserve_targets) ... ok
+test_pause_phases (test_practice.FileOperationTests.test_pause_phases) ... ok
+test_target_directory_is_conflict (test_practice.FileOperationTests.test_target_directory_is_conflict) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.052s
+
+OK
