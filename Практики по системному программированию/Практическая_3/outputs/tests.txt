@@ -1,0 +1,8 @@
+test_exercises_structure_and_counts (test_practice.DirectoryTests.test_exercises_structure_and_counts) ... ok
+test_main_and_repeat_preserve_existing_files (test_practice.DirectoryTests.test_main_and_repeat_preserve_existing_files) ... ok
+test_missing_folder_and_pause (test_practice.DirectoryTests.test_missing_folder_and_pause) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.024s
+
+OK
